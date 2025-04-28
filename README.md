@@ -1,5 +1,5 @@
 # TinDog Project
-[Link](https://github.com/Rellance/TinDog-Project/deployments/github-pages)
+[Link]([https://github.com/Rellance/TinDog-Project/deployments/github-pages](https://rellance.github.io/TinDog-Project/))
 
 
 Meet new and interesting dogs nearby.
